@@ -1,0 +1,12 @@
+{
+  "name": "cnorris/328/hello",
+  "authors": [
+    {
+      "name": "Caleb Norris",
+      "email": "norrisc129@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
